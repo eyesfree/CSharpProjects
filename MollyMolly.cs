@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/* За това какво прави програмата - виж файла 1. 2-4-8_Условие на задачата
+*/
 namespace _2_4_8
 {
     class MollyMolly
